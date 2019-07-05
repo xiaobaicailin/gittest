@@ -1,5 +1,5 @@
 public class tees {
     public static void main(String[] args) {
-        System.out.println("ssssssssssssssssss");
+        System.out.println("ssssssssssssssssss55555555");
     }
 }
